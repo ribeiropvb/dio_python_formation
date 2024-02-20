@@ -32,4 +32,4 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](licens
 
 ---
 
-Feito com ♥
+Feito com ♥ Por RibeiroPVB
