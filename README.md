@@ -28,7 +28,7 @@ Se você tiver dúvidas ou precisar de suporte para algum dos projetos, sinta-se
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.
 
 ---
 
