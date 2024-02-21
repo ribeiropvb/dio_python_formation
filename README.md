@@ -11,6 +11,7 @@ Cada pasta dentro deste repositório corresponde a um projeto específico da for
 ### Lista de Projetos
 
 1. **Criando um Sistema Bancário com Python**: Criação de um sistema bancário. Foi considerado um único usuário e implementado funcionalidade de Depósito, Saque e operação de Extrato;
+2. **Otimizando Sistema Bancário**: Foi utilizado o código do projeto [1.] e adicionado a possibilidade de mais de um usuário, permitindo um usuário, possuir mais de uma conta.
 
 ## Como Contribuir
 
